@@ -10,7 +10,6 @@
 using namespace std;
 
 //Afficher état d'un produit entre 2 nombres réels
-
 int main() {
     
     double a, b;
