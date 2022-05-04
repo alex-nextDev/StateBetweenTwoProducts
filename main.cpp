@@ -35,6 +35,5 @@ int main() {
     {
         cout<<"Error";
     }
-
     return 0;
 }
